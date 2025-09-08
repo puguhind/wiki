@@ -23,7 +23,7 @@ show_downloads: false
 # (string) Specify branch rendered by gitpages allowing wiki tool buttons to work
 git_branch: "master"
 # (string) Url of logo image, it can be full, absolute or relative.
-logo_url: 
+logo_url: /assets/images/HRLogoPantone.svg
 # (string) The UA-XXXXX-Y code from google analytic to enable GA on your wiki
 google_analytics: 
 # (string) folder where wiki pages are stored, it's needed for tool buttons
@@ -145,6 +145,7 @@ inc_before_page_list :
 inc_after_page_list :
 inc_before_post_list :
 inc_after_post_list :
+
 
 
 
